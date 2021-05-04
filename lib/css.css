@@ -52,14 +52,9 @@ html, body{
 }
 
 
-
-
-.slide{
-	padding:45px 0;
+.headerNav{
+	margin-bottom:0px;
 }
-
-
-
 
 
 
@@ -76,7 +71,7 @@ html, body{
 	
 	font-size: 60px;
 	font-weight:700;
-	margin-top: 120px;	
+	margin-top: 105px;	
 	margin-bottom: 45px;
 }
 
@@ -86,17 +81,23 @@ html, body{
 }
 
 .subtitle{	
-	font-size:24px;
-	margin-bottom: 45px;
+    color: #333;
+	font-size:22px;
+	margin-bottom: 60px;
 }
 
 .skin{
 	width:100%;
 }
 
+.button{
+	
+	margin-bottom:60px;
+}
 
-
-
+.button a{
+	margin-right:6px;
+}
 
 
 .footer{
