@@ -67,7 +67,25 @@ html, body{
 
 
 
-.title{
+
+
+.divider{
+	background-color:#f8f8f8;
+}
+
+
+
+
+
+.skin{
+	width:100%;
+}
+
+.section{
+	margin-bottom: 30px;
+}
+
+.section h1{
 	
 	font-size: 60px;
 	font-weight:700;
@@ -75,23 +93,35 @@ html, body{
 	margin-bottom: 45px;
 }
 
-.title span{
+.section h3{
+	
+	font-size: 27px;
+	font-weight:700;
+	margin-top: 75px;	
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+.section h1 span{
 	
 	color:#3087db;
 }
 
-.subtitle{	
-    color: #333;
-	font-size:22px;
+
+
+
+.section p{
+	color: #333;
+	font-size:20px;
 	margin-bottom: 60px;
 }
 
-.skin{
-	width:100%;
-}
 
-.button{
-	
+.button{	
 	margin-bottom:60px;
 }
 
@@ -101,13 +131,13 @@ html, body{
 
 
 .footer{
-	color:#999999;
+	color:#666;
 	text-align:center;
 	
 }
 
 .footer a{
-	color:#999999;
+	color:#666;
 }
 
 
@@ -115,12 +145,8 @@ html, body{
 .copyright{
 	border-top: 1px solid #eee;
     padding: 20px 0;
+	font-size:15px;
+	line-height:24px;
 }
-
-
-
-
-
-
 
 
